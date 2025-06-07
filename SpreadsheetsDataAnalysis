@@ -1,0 +1,10 @@
+Manhattan-Airbnb-Analysis/
+│── data/                 # Store raw and processed datasets
+│── notebooks/            # Jupyter notebooks for exploration
+│── scripts/              # Python scripts for analysis
+│── reports/              # Final results, charts, and summary
+│── README.md             # Project overview
+│── requirements.txt      # Dependencies
+│── LICENSE               # License for open-source use
+│── .gitignore            # Files to exclude from Git tracking
+
