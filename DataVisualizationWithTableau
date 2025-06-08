@@ -1,0 +1,9 @@
+Superstore-Analysis/
+│── data/                 # Raw and processed datasets
+│── notebooks/            # Jupyter notebooks for exploration
+│── scripts/              # Python scripts for visualization and analysis
+│── reports/              # Summary results, dashboards, and executive reports
+│── README.md             # Project overview
+│── requirements.txt      # Dependencies
+│── LICENSE               # Open-source license
+│── .gitignore            # Files to exclude from Git tracking
