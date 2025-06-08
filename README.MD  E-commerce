@@ -1,0 +1,21 @@
+# E-Commerce Transaction Analysis 📊
+
+## Overview
+This project analyzes raw user activity logs from an e-commerce website to evaluate conversion funnels, cohort retention rates, and purchase behavior.
+
+## Data
+- **Source:** Business Analytics Project dataset
+- **Contains:** User events, product details, purchase transactions
+
+## Analysis
+We explore:
+- Conversion funnel effectiveness (product views → purchases)
+- Cohort-based retention rates over time
+- User behavior trends by event type and product category
+
+## Setup
+Clone the repository and install dependencies:
+```sh
+git clone [repo-url]
+cd Ecommerce-Analytics
+pip install -r requirements.txt
