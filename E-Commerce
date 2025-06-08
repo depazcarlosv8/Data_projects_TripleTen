@@ -1,0 +1,9 @@
+Ecommerce-Analytics/
+│── data/                 # Raw transaction logs and processed data
+│── notebooks/            # Jupyter notebooks for exploration
+│── scripts/              # Python scripts for analysis
+│── reports/              # Summary results, graphs, and executive reports
+│── README.md             # Project overview
+│── requirements.txt      # Dependencies
+│── LICENSE               # Open-source license
+│── .gitignore            # Files to exclude from Git tracking
