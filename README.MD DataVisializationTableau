@@ -1,0 +1,21 @@
+# Superstore Data Visualization 📈
+
+## Overview
+This project analyzes financial and operational data from the Superstore dataset to assess profitability, advertising strategies, and product return trends.
+
+## Data
+- **Source:** Superstore.xls dataset
+- **Contains:** Transactions, returns, profit margins, and customer interactions
+
+## Analysis
+We explore:
+- Profit and loss drivers by product categories, regions, and shipping modes
+- Advertising opportunities based on seasonal trends and state-wise performance
+- Return rates by product and customer behavior
+
+## Setup
+Clone the repository and install dependencies:
+```sh
+git clone [repo-url]
+cd Superstore-Analysis
+pip install -r requirements.txt
